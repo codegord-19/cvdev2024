@@ -1,0 +1,18 @@
+body
+{
+  background: #f4f4f4;
+  font-family: "Roboto", sans-serif;
+}
+
+#root
+{
+  --c1:#3D4351;
+  --c2:#fff;
+  --c3:#000;
+  --c4:#0D11FF;
+  --c5:#B2FF0D;
+  --c6:#C00DFF;
+  --c7:#FF0DE2;
+  --c8:#FFF80D;
+  --c9:#0D5DFF;
+}
